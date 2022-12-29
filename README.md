@@ -18,4 +18,11 @@ An Astable Multivibrator (Also known as the flip-flop circuit) is a circuit that
 In this circuit the capacitor charge time determines how quickly the LED oscillates. We can adjust how quickly the capacitor charges by adding a resistor in series. The resistor limits the amount of current that enters and leaves the capacitor. The RC time constant describes how quickly a capacitor charges to 63.2% of it's applied DC voltage. The RC time constant is described by the following formula in a simple RC circuit:
 * Time constant (Seconds) = Resistance (Ohms) * Capacity (Farads)
 
+Rather than doing math to determine a desired time constant we can fiddle with some values to see the outcomes of the circuits
+
+### OrCad PSPice 
+Using OrCad PSPice to simulate the circuit below we can alter the values of the resistor and capacitor and see how it affects the time constant
+
+
+
 ## Parts
