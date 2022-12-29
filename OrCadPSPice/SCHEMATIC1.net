@@ -1,0 +1,29 @@
+* source ASTABLE_MULTIVIBRATOR
+V_V1         N07381 0 3Vdc
+R_R1         N10394 N07381  5k TC=0,0 
+R_R2         N07413 N07381  24 TC=0,0 
+R_R3         N07418 N07381  5k TC=0,0 
+R_R4         N07425 N07381  24 TC=0,0 
+C_C2         N07418 N07427  100u  TC=0,0 
+Q_Q3         N07427 N10587 0 BC107A 
+Q_Q4         N14054 N07418 0 BC107A 
+Q_Q5         N10617 N10394 0 BC107A 
+R_R6         N10591 N07381  24 TC=0,0 
+C_C3         N10587 N10617  100u  TC=0,0 
+R_R5         N10587 N07381  5k TC=0,0 
+C_C4         N10394 N14054  100u  TC=0,0 
+D_D1         N07413 N14054 Dbreak 
+D_D2         N07413 N14054 Dbreak 
+D_D3         N07413 N14054 Dbreak 
+D_D4         N07413 N14054 Dbreak 
+D_D5         N07413 N14054 Dbreak 
+D_D10         N07425 N07427 Dbreak 
+D_D6         N07425 N07427 Dbreak 
+D_D7         N07425 N07427 Dbreak 
+D_D9         N07425 N07427 Dbreak 
+D_D8         N07425 N07427 Dbreak 
+D_D15         N10591 N10617 Dbreak 
+D_D11         N10591 N10617 Dbreak 
+D_D13         N10591 N10617 Dbreak 
+D_D14         N10591 N10617 Dbreak 
+D_D12         N10591 N10617 Dbreak 
