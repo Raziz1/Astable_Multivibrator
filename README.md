@@ -6,7 +6,7 @@ To design the circuit I used the following online guide for an [astable multivib
 ## Introduction
 An Astable Multivibrator (Also known as the flip-flop circuit) is a circuit that continuously oscillates between two states. Using transistors, capacitors, and LEDs we can build a circuit to demonstrates its function. 
 
-## Requirements
+## Requirements 🗒️
 * The transistor needs approximately 0.7V at the base pin to turn on
 * Since we are using a 3V supply we will need to use an LED with a low forward voltage (Red & Yellow)
 * The arrangmenet of LEDs will be in parallel so that they all have an equal voltage drop 
@@ -14,7 +14,7 @@ An Astable Multivibrator (Also known as the flip-flop circuit) is a circuit that
 * Our targe current for each LED will be 10mA (In parallel that is a total of 50mA) so we will need a 24 ohm resistor 
 * I will be using an NPN transistor for this application
 
-## Capacitor Charge time 
+## Capacitor Charge Time ⏳
 In this circuit the capacitor charge time determines how quickly the LED oscillates. We can adjust how quickly the capacitor charges by adding a resistor in series. The resistor limits the amount of current that enters and leaves the capacitor. The RC time constant describes how quickly a capacitor charges to 63.2% of it's applied DC voltage. The RC time constant is described by the following formula in a simple RC circuit:
 * Time constant (Seconds) = Resistance (Ohms) * Capacity (Farads)
 
