@@ -27,10 +27,17 @@ Using OrCad PSPice to simulate the circuit below we can alter the values of the 
     <img src="https://github.com/Raziz1/Astable_Multivibrator/blob/main/assets/astable_schematic-1.png? raw=true" >
 </p> 
 
-### 10 Farad voltage response
+### 10 uF voltage response
 ![image](https://user-images.githubusercontent.com/73625971/209918624-abe01d37-ddb3-4fa4-9b29-4c6e90a2f784.png)
 
-### 100 Farad voltage response
+### 100 uF voltage response
 ![image](https://user-images.githubusercontent.com/73625971/209918794-080cdb8e-b53d-4b29-b3a3-4873efc768ff.png)
+
+### 5 Kohm voltage response
+![image](https://user-images.githubusercontent.com/73625971/209919322-2ec8d4ef-e8a1-49ee-9898-866a037290d9.png)
+
+### 22 Kohm voltage response
+![image](https://user-images.githubusercontent.com/73625971/209918794-080cdb8e-b53d-4b29-b3a3-4873efc768ff.png)
+
 
 ## Parts
