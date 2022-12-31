@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Astable_PCB.PcbDoc]
+   Generated File[Pick Place for Astable_PCB.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:54:17 PM On 2022-12-30
