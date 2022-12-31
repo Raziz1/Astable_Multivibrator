@@ -41,3 +41,16 @@ Using OrCad PSPice to simulate the circuit below we can alter the values of the 
 
 
 ## Parts
+View the BOM to see the parts used for this project
+
+## Output Files
+The following output files were included
+
+* Bill of Materials
+* Gerber
+* NC Drill
+* Pick-and-place
+* Board Stackup
+* Drill Drawing/Guides
+* Schematic Prints
+* PCB prints
