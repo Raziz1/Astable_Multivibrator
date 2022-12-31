@@ -43,6 +43,9 @@ Using OrCad PSPice to simulate the circuit below we can alter the values of the 
 ## Parts
 View the BOM to see the parts used for this project
 
+## PCB Layout
+The routes for this porject were generated using the autoroute feature. This is not ideal as it can result in a variety of design rule errors. It also does not give you the chance to layout the routes yourself
+
 ## Output Files
 The following output files were included
 
