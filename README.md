@@ -57,3 +57,7 @@ The following output files were included
 * Drill Drawing/Guides
 * Schematic Prints
 * PCB prints
+
+## 3D View
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/73625971/210120348-289c9fdd-42e6-4ce6-92a7-0e84b9af5df6.png">
+
